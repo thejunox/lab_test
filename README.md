@@ -3,6 +3,8 @@
  i am thanuja bandara
 
 
+this is html example
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -22,6 +24,8 @@
 | aligned      | text           | example       |
 | example      | table          | right         |
 
+
+this is java example
 
 ```java
 public class Main {
