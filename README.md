@@ -2,6 +2,15 @@
 
  i am thanuja bandara
 
- 	| Column 1 | Column 2 |
-| -------- | -------- |
-| Text | Text |
+
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+```
