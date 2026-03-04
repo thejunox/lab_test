@@ -14,3 +14,10 @@
 </body>
 </html>
 ```
+
+
+| Left-Aligned | Center-Aligned | Right-Aligned |
+| :----------- |:--------------:| -------------:|
+| This         | is             | an            |
+| aligned      | text           | example       |
+| example      | table          | right         |
