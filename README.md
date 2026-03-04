@@ -25,7 +25,7 @@
 | example      | table          | right         |
 
  
- | # this is java ex                                                                                                                                    |
+# this is java ex
 
 ```java
 public class Main {
