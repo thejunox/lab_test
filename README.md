@@ -34,3 +34,20 @@ public class Main {
   }
 }
 ```
+
+# 🚀 Project Name
+> A short, one-sentence description of what this project does.
+
+![License](https://img.shields.io)
+![Version](https://img.shields.io)
+![Build](https://img.shields.io)
+
+---
+
+## 🧐 Features
+- **Fast**: High-performance core.
+- **Easy**: Simple API for quick integration.
+- **Secure**: Built-in encryption by default.
+
+## 🛠 Installation
+To get started, run the following command in your terminal:
