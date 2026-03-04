@@ -3,7 +3,7 @@
  i am thanuja bandara
 
 
-this is html example
+#this is html ex
 
 ```html
 <!DOCTYPE html>
@@ -24,8 +24,7 @@ this is html example
 | aligned      | text           | example       |
 | example      | table          | right         |
 
-
-this is java example
+#this is java ex;
 
 ```java
 public class Main {
